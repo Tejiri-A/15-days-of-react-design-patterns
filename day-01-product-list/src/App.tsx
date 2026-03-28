@@ -1,5 +1,7 @@
+import ProductsListContainer from "./components/ProductsListContainer";
+
 function App() {
-  return <div>App</div>;
+  return <ProductsListContainer/>;
 }
 
 export default App;
