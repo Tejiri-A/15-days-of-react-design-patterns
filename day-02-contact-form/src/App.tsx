@@ -1,4 +1,3 @@
-import ControlledForm from "./controlled-inputs/ControlledForm";
 import UncontrolledInputs from "./uncontrolled-inputs/UncontrolledInputs";
 
 function App() {
